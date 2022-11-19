@@ -8,8 +8,12 @@ function increment() {
 };
 
 function decrease() {
-  count = count - 1;
-  countEl.innerText = count;
+  if (count != 0) {
+    count = count - 1;
+    countEl.innerText = count;
+
+  }
+
 }
 
 function reset() {
