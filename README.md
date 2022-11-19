@@ -3,7 +3,8 @@ Inspired by the ["Learn JavaScript" course on Scrimba.com](https://scrimba.com/l
 
 I restyled this app to be used in the airline industry since my partner is a flight attendant and he (and his colleagues) actually has to do the task of counting passengers as they board the plane Previously, he's used a [mechanical counter](https://en.wikipedia.org/wiki/Mechanical_counter) for this, but seeing as this is the 21st Century and the age of apps I decided to create one myself.
 
-I also added additional buttons for 'decrease' and 'reset'. The decrease button will 'decrease' the total passenger count by 1 (in case of error) and the 'reset' button will reset the counter back to the zero. 
+
+I also added additional buttons for 'decrease' and 'reset'. The decrease button will 'decrease' the total passenger count by 1 (in case of error) and the 'reset' button will reset the counter back to the zero.
 
 ## Contents
 - [Screenshot](#screenshot)
